@@ -1,0 +1,25 @@
+{
+    "open_close_interaction": false,
+    "pickup_put_interaction": true,
+    "pickup_objects": [
+        "Mug"
+    ],
+    "acceptable_receptacles": [
+        "CounterTop",
+        "TableTop",
+        "Sink"
+    ],
+    "openable_objects": [
+        "Microwave"
+    ],
+    "scene_id": "FloorPlan28",
+    "grayscale": true,
+    "resolution": [400, 400],
+    "task": {
+        "task_name": "PutObjectTask",
+        "pickup_objects":"Mug",
+        "target_object": "Mug",
+        "movement_reward": -1,
+        "destination_object":"CounterTop"
+    }
+}
