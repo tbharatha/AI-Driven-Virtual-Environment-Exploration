@@ -40,6 +40,8 @@ python algorithms/a3c/main.py
 ## Video Demonstration
 
 [Watch the video](https://drive.google.com/file/d/1I9DpTnDmP4SARtjN-hKKHEv92KdTxiq-/view?usp=share_link)
+[![Video Thumbnail](thumbnail_image_url)](https://drive.google.com/file/d/1I9DpTnDmP4SARtjN-hKKHEv92KdTxiq-/view?usp=share_link)
+
 
 
 ### Similarly you can run Rainbow DQN Algotrithm.
